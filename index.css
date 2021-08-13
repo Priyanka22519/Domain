@@ -1,0 +1,50 @@
+.navbar
+{
+background-color: rgba(238, 182, 255, 0.986);
+color: white;
+}
+.logo
+{
+height: 60px;
+width: 100px;
+}
+.pc
+{
+height: 300px;
+width: 600px;
+}
+.socials
+{
+text-align: center;
+padding-bottom: 5px;
+margin-top: 5px;
+margin-left: 280px;
+}
+.socials i
+{
+font-size: 20px;
+color: darkblue;
+padding: 0 10px;
+}
+.area
+{
+height: 300px;
+width: 100%;
+background-color: rgba(222, 136, 248, 0.986);
+}
+.website
+{
+color: seashell;
+font-size: 45px;
+padding: 30px;
+}
+.explore
+{
+color: snow;
+font-size: 15px;
+}
+.Search i
+{
+color:  rgb(128, 37, 151);
+font-size: 35px;
+}
